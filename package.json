@@ -1,0 +1,30 @@
+{
+  "name": "gremlin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test":"mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainxue/gremlin.js.git"
+  },
+  "keywords": [
+    "gremlin",
+    "graph"
+  ],
+  "author": "rainxue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainxue/gremlin.js/issues"
+  },
+  "homepage": "https://github.com/rainxue/gremlin.js#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "should": "^13.2.3"
+  }
+}
